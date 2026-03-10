@@ -520,6 +520,18 @@
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
+    "data": "2026-02-02",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "January/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-02-03",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -538,6 +550,18 @@
     "setor": "Automotivo",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fenabrave.org.br"
+  },
+  {
+    "data": "2026-02-03",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "January/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
   },
   {
     "data": "2026-02-04",
@@ -578,6 +602,18 @@
     "setor": "Imobiliário",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fipezap.com.br"
+  },
+  {
+    "data": "2026-02-04",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "January/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-02-05",
@@ -780,6 +816,18 @@
     "link": "https://data.sca.isr.umich.edu"
   },
   {
+    "data": "2026-02-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "January/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-02-16",
     "horario": "10:15",
     "indicador": "Monitor do PIB",
@@ -950,6 +998,30 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-02-20",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "January/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
+    "data": "2026-02-23",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "January/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-02-24",
     "horario": "",
     "indicador": "Sondagem Industrial",
@@ -1050,6 +1122,18 @@
     "link": "https://www.gov.br/receitafederal"
   },
   {
+    "data": "2026-02-25",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "January/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-02-26",
     "horario": "",
     "indicador": "Sondagem Indústria da Construçío",
@@ -1110,6 +1194,18 @@
     "link": "https://data.sca.isr.umich.edu"
   },
   {
+    "data": "2026-02-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "January/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-02-28",
     "horario": "11:00",
     "indicador": "Venda de Combustíveis e Derivados do Petróleo",
@@ -1138,6 +1234,18 @@
     "setor": "Indústria",
     "nota": "",
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+  },
+  {
+    "data": "2026-03-02",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "February/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-03-03",
@@ -1180,6 +1288,18 @@
     "link": "https://www.fenabrave.org.br"
   },
   {
+    "data": "2026-03-03",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "February/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
     "data": "2026-03-04",
     "horario": "09:00",
     "indicador": "Índice de Preços ao Produtor",
@@ -1218,6 +1338,18 @@
     "setor": "Imobiliário",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fipezap.com.br"
+  },
+  {
+    "data": "2026-03-04",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "February/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-03-05",
@@ -1490,6 +1622,18 @@
     "link": "https://data.sca.isr.umich.edu"
   },
   {
+    "data": "2026-03-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "February/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-03-16",
     "horario": "10:15",
     "indicador": "Monitor do PIB",
@@ -1640,6 +1784,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-03-20",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "February/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-03-23",
     "horario": "",
     "indicador": "Sondagem Indústria da Construçío",
@@ -1648,6 +1804,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
+  },
+  {
+    "data": "2026-03-23",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "February/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-03-24",
@@ -1708,6 +1876,18 @@
     "setor": "Indústria",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
+  },
+  {
+    "data": "2026-03-25",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "February/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-03-26",
@@ -1818,6 +1998,18 @@
     "setor": "Confiança",
     "nota": "Estimativa padrão histórico",
     "link": "https://data.sca.isr.umich.edu"
+  },
+  {
+    "data": "2026-03-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "February/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-03-28",
@@ -1940,6 +2132,18 @@
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
+    "data": "2026-04-01",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "March/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-04-02",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -1968,6 +2172,18 @@
     "setor": "Indústria",
     "nota": "Manufacturers' Shipments Inventories and Orders",
     "link": "https://www.census.gov/economic-indicators/calendar-listview.html"
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "March/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
   },
   {
     "data": "2026-04-03",
@@ -2028,6 +2244,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
+  },
+  {
+    "data": "2026-04-06",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "March/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-04-08",
@@ -2188,6 +2416,18 @@
     "setor": "Imobiliário",
     "nota": "",
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
+  },
+  {
+    "data": "2026-04-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "March/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-04-14",
@@ -2360,6 +2600,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-04-20",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "March/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-04-21",
     "horario": "10:00",
     "indicador": "Pending Home Sales Index",
@@ -2378,6 +2630,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
+  },
+  {
+    "data": "2026-04-22",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "March/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-04-24",
@@ -2498,6 +2762,30 @@
     "setor": "Fiscal",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.gov.br/receitafederal"
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "March/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "March/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-04-28",
@@ -2720,6 +3008,18 @@
     "link": "https://www.fipezap.com.br"
   },
   {
+    "data": "2026-05-04",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "April/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-05-05",
     "horario": "10:00",
     "indicador": "First Quarter Metro Home Prices",
@@ -2728,6 +3028,30 @@
     "setor": "Imobiliário",
     "nota": "",
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
+  },
+  {
+    "data": "2026-05-05",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "April/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
+    "data": "2026-05-06",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "April/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-05-07",
@@ -2890,6 +3214,18 @@
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
+    "data": "2026-05-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "April/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-05-14",
     "horario": "09:00",
     "indicador": "Produção Agrícola (LSPA)",
@@ -3050,6 +3386,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-05-20",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "April/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-05-21",
     "horario": "",
     "indicador": "Acompanhamento de Safra - Café",
@@ -3090,6 +3438,18 @@
     "link": "https://data.sca.isr.umich.edu"
   },
   {
+    "data": "2026-05-22",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "April/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-05-25",
     "horario": "08:30",
     "indicador": "Balança de Pagamentos",
@@ -3128,6 +3488,18 @@
     "setor": "Indústria",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
+  },
+  {
+    "data": "2026-05-25",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "April/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-05-26",
@@ -3178,6 +3550,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
+  },
+  {
+    "data": "2026-05-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "April/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-05-28",
@@ -3320,6 +3704,30 @@
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
+    "data": "2026-06-01",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "May/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
+    "data": "2026-06-02",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "May/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
     "data": "2026-06-03",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -3348,6 +3756,18 @@
     "setor": "Automotivo",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fenabrave.org.br"
+  },
+  {
+    "data": "2026-06-03",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "May/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-06-04",
@@ -3590,6 +4010,18 @@
     "link": "https://abraciclo.com.br/press-release/"
   },
   {
+    "data": "2026-06-15",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "May/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-06-16",
     "horario": "09:00",
     "indicador": "PMC",
@@ -3690,6 +4122,30 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-06-22",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "May/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "May/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-06-23",
     "horario": "09:30",
     "indicador": "Nonmanufacturing Business Outlook Survey",
@@ -3758,6 +4214,18 @@
     "setor": "Indústria",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "May/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-06-26",
@@ -3850,6 +4318,18 @@
     "link": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/27662"
   },
   {
+    "data": "2026-06-29",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "May/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-06-30",
     "horario": "09:00",
     "indicador": "Índice de Preços ao Produtor",
@@ -3930,6 +4410,18 @@
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
+    "data": "2026-07-01",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "June/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-07-02",
     "horario": "09:30",
     "indicador": "Employment Situation",
@@ -3950,6 +4442,18 @@
     "link": "https://www.census.gov/economic-indicators/calendar-listview.html"
   },
   {
+    "data": "2026-07-02",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "June/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
     "data": "2026-07-03",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -3968,6 +4472,18 @@
     "setor": "Automotivo",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fenabrave.org.br"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "June/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-07-04",
@@ -4098,6 +4614,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
+  },
+  {
+    "data": "2026-07-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "June/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-07-14",
@@ -4270,6 +4798,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-07-20",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "June/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-07-21",
     "horario": "",
     "indicador": "Sondagem Industrial",
@@ -4288,6 +4828,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
+  },
+  {
+    "data": "2026-07-22",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "June/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-07-23",
@@ -4338,6 +4890,30 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
+  },
+  {
+    "data": "2026-07-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "June/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
+  },
+  {
+    "data": "2026-07-27",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "June/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-07-28",
@@ -4510,6 +5086,18 @@
     "link": "https://www.fenabrave.org.br"
   },
   {
+    "data": "2026-08-03",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "July/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-08-04",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -4558,6 +5146,30 @@
     "setor": "Imobiliário",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fipezap.com.br"
+  },
+  {
+    "data": "2026-08-04",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "July/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
+    "data": "2026-08-05",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "July/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-08-07",
@@ -4740,6 +5352,18 @@
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
+    "data": "2026-08-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "July/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-08-14",
     "horario": "09:00",
     "indicador": "PNAD Trimestral",
@@ -4890,6 +5514,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-08-20",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "July/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-08-24",
     "horario": "",
     "indicador": "Sondagem Indústria da Construçío",
@@ -4898,6 +5534,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
+  },
+  {
+    "data": "2026-08-24",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "July/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-08-25",
@@ -4928,6 +5576,18 @@
     "setor": "Indústria",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
+  },
+  {
+    "data": "2026-08-25",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "July/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-08-26",
@@ -5008,6 +5668,18 @@
     "setor": "Setor Externo",
     "nota": "",
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
+  },
+  {
+    "data": "2026-08-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "July/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-08-28",
@@ -5120,6 +5792,18 @@
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
+    "data": "2026-09-01",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "August/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-09-02",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -5140,6 +5824,18 @@
     "link": "https://www.census.gov/economic-indicators/calendar-listview.html"
   },
   {
+    "data": "2026-09-02",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "August/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
     "data": "2026-09-03",
     "horario": "10:00",
     "indicador": "Produção, Exportação e Licenciamento de Autoveículos",
@@ -5148,6 +5844,18 @@
     "setor": "Automotivo",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fenabrave.org.br"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "August/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-09-04",
@@ -5340,6 +6048,18 @@
     "link": "https://abraciclo.com.br/press-release/"
   },
   {
+    "data": "2026-09-14",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "August/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-09-15",
     "horario": "09:00",
     "indicador": "Produção Agrícola (LSPA)",
@@ -5480,6 +6200,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-09-21",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "August/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-09-22",
     "horario": "09:30",
     "indicador": "Nonmanufacturing Business Outlook Survey",
@@ -5488,6 +6220,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
+  },
+  {
+    "data": "2026-09-22",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "August/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-09-23",
@@ -5560,6 +6304,18 @@
     "link": "https://data.sca.isr.umich.edu"
   },
   {
+    "data": "2026-09-25",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "August/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-09-26",
     "horario": "11:00",
     "indicador": "Índice de Confiança do Empresário do Comércio",
@@ -5598,6 +6354,18 @@
     "setor": "Setor Externo",
     "nota": "",
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
+  },
+  {
+    "data": "2026-09-28",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "August/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-09-29",
@@ -5720,6 +6488,18 @@
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
+    "data": "2026-10-01",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "September/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-10-02",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -5750,6 +6530,18 @@
     "link": "https://www.census.gov/economic-indicators/calendar-listview.html"
   },
   {
+    "data": "2026-10-02",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "September/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
     "data": "2026-10-03",
     "horario": "10:00",
     "indicador": "Produção, Exportação e Licenciamento de Autoveículos",
@@ -5778,6 +6570,18 @@
     "setor": "Imobiliário",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fipezap.com.br"
+  },
+  {
+    "data": "2026-10-05",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "September/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-10-07",
@@ -5878,6 +6682,18 @@
     "setor": "Sondagens",
     "nota": "Segundo terça-feira do mês",
     "link": "https://www.nfib.com/news/monthly_report/sbet/"
+  },
+  {
+    "data": "2026-10-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "September/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-10-14",
@@ -6070,6 +6886,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-10-20",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "September/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-10-22",
     "horario": "",
     "indicador": "Sondagem Industrial",
@@ -6078,6 +6906,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "September/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-10-23",
@@ -6130,6 +6970,18 @@
     "link": "https://pesquisascnc.com.br"
   },
   {
+    "data": "2026-10-26",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "September/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-10-27",
     "horario": "09:00",
     "indicador": "Índice de Preços ao Produtor",
@@ -6168,6 +7020,18 @@
     "setor": "Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
+  },
+  {
+    "data": "2026-10-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "September/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-10-28",
@@ -6320,6 +7184,18 @@
     "link": "https://www.fenabrave.org.br"
   },
   {
+    "data": "2026-11-03",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "October/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-11-04",
     "horario": "10:00",
     "indicador": "Aluguel",
@@ -6340,6 +7216,18 @@
     "link": "https://www.fipezap.com.br"
   },
   {
+    "data": "2026-11-04",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "October/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
+  },
+  {
     "data": "2026-11-05",
     "horario": "09:00",
     "indicador": "PIM - Brasil",
@@ -6348,6 +7236,18 @@
     "setor": "Indústria",
     "nota": "",
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "October/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-11-06",
@@ -6550,6 +7450,18 @@
     "link": "https://data.sca.isr.umich.edu"
   },
   {
+    "data": "2026-11-13",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "October/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-11-16",
     "horario": "",
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
@@ -6670,6 +7582,30 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-11-23",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "October/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
+  },
+  {
+    "data": "2026-11-23",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "October/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-11-24",
     "horario": "",
     "indicador": "Sondagem Industrial",
@@ -6728,6 +7664,18 @@
     "setor": "Indústria",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "October/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-11-26",
@@ -6810,6 +7758,18 @@
     "link": "https://data.sca.isr.umich.edu"
   },
   {
+    "data": "2026-11-27",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "October/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-11-30",
     "horario": "",
     "indicador": "CAGED - Emprego Formal",
@@ -6850,6 +7810,18 @@
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
+    "data": "2026-12-01",
+    "horario": "",
+    "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
+    "fonte": "CBIC",
+    "periodo_referencia": "November/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (1º dia útil do mês seguinte, conforme Lei 4.591/64 e padrão CBIC Dados)",
+    "link_fonte": "http://www.cbicdados.com.br/menu/custo-da-construcao/cub-medio-brasil-custo-unitario-basico-de-construcao-por-m2",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-12-02",
     "horario": "09:00",
     "indicador": "PIB Trimestral",
@@ -6858,6 +7830,18 @@
     "setor": "Atividade",
     "nota": "",
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
+  },
+  {
+    "data": "2026-12-02",
+    "horario": "",
+    "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
+    "fonte": "CCEE",
+    "periodo_referencia": "November/2026",
+    "setor": "Energia",
+    "nota": "Data limite para divulgação de dados prévios de medição (MS+2du), conforme calendário oficial CCEE",
+    "link_fonte": "https://www.ccee.org.br",
+    "script": "",
+    "estimado": false
   },
   {
     "data": "2026-12-03",
@@ -6888,6 +7872,18 @@
     "setor": "Automotivo",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.fenabrave.org.br"
+  },
+  {
+    "data": "2026-12-03",
+    "horario": "",
+    "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
+    "fonte": "FENABRAVE",
+    "periodo_referencia": "November/2026",
+    "setor": "Automotivo",
+    "nota": "Estimado (~3º dia útil do mês seguinte). Padrão: nov→02/dez/25, jan→03/fev/26",
+    "link_fonte": "https://www.fenabrave.org.br/portalv2/Conteudo/emplacamentos",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-12-04",
@@ -7080,6 +8076,18 @@
     "link": "https://abraciclo.com.br/press-release/"
   },
   {
+    "data": "2026-12-14",
+    "horario": "",
+    "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
+    "fonte": "SECOVI-SP",
+    "periodo_referencia": "November/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 13-15 do mês seguinte). Confirmar em secovi.com.br/pesquisas-e-indices",
+    "link_fonte": "https://secovi.com.br/pesquisas-e-indices/pesquisa-mensal-do-mercado-imobiliario/",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-12-15",
     "horario": "09:00",
     "indicador": "Produção Agrícola (LSPA)",
@@ -7230,6 +8238,18 @@
     "link": "https://www.acobrasil.org.br/site/estatistica-mensal/"
   },
   {
+    "data": "2026-12-21",
+    "horario": "",
+    "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
+    "fonte": "FGTS/Ministério das Cidades",
+    "periodo_referencia": "November/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 20 do mês seguinte). Sem calendário oficial publicado.",
+    "link_fonte": "https://www.gov.br/cidades/pt-br",
+    "script": "",
+    "estimado": true
+  },
+  {
     "data": "2026-12-22",
     "horario": "10:30",
     "indicador": "Nonmanufacturing Business Outlook Survey",
@@ -7238,6 +8258,18 @@
     "setor": "Sondagens",
     "nota": "",
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
+  },
+  {
+    "data": "2026-12-22",
+    "horario": "",
+    "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
+    "fonte": "ABRAINC/FIPE",
+    "periodo_referencia": "November/2026",
+    "setor": "Construção e Imobiliário",
+    "nota": "Estimado (~dia 22 do mês seguinte). Confirmar em fipe.org.br/pt-br/indices/abrainc",
+    "link_fonte": "https://www.fipe.org.br/pt-br/indices/abrainc/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-12-23",
@@ -7318,6 +8350,30 @@
     "setor": "Fiscal",
     "nota": "Estimativa baseada padrão histórico",
     "link": "https://www.gov.br/receitafederal"
+  },
+  {
+    "data": "2026-12-28",
+    "horario": "",
+    "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
+    "fonte": "EPE",
+    "periodo_referencia": "November/2026",
+    "setor": "Energia",
+    "nota": "Estimado (~final do mês seguinte). Dez/2025 divulgado 29/01/2026; Jan/2026 divulgado ~04/03/2026.",
+    "link_fonte": "https://www.epe.gov.br/pt/areas-de-atuacao/estatisticas",
+    "script": "",
+    "estimado": true
+  },
+  {
+    "data": "2026-12-28",
+    "horario": "",
+    "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
+    "fonte": "EMPAPEL/FGV-IBRE",
+    "periodo_referencia": "November/2026",
+    "setor": "Indústria",
+    "nota": "Estimado (~dia 25-27 do mês seguinte). Dez/2025→26/02/2026; Jan/2026→06/03/2026.",
+    "link_fonte": "https://empapel.org.br/publicacoes/boletim-estatistico/",
+    "script": "",
+    "estimado": true
   },
   {
     "data": "2026-12-29",
