@@ -272,7 +272,7 @@ main{padding:20px 24px}
 </div>
 
 <script>
-const JSON_URL = 'calendario.json';
+const JSON_URL = 'calendario_2026.json';
 const MONTHS=['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
 const DAYS=['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
 const COLORS={
@@ -309,7 +309,7 @@ async function loadData(){
   }catch(e){
     ubar.className='ubar err';
     ubar.innerHTML='⚠ Erro ao carregar dados: '+e.message;
-    document.getElementById('main').innerHTML='<div class="empty">⚠ Não foi possível carregar calendario.json<br><br>Verifique se o arquivo está no repositório GitHub.</div>';
+    document.getElementById('main').innerHTML='<div class="empty">⚠ Não foi possível carregar calendario_2026.json<br><br>Verifique se o arquivo está no repositório GitHub.</div>';
   }
 }
 
