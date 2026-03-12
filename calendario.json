@@ -1,7 +1,7 @@
 [
   {
     "data": "2026-01-12",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2025-12-01",
@@ -11,7 +11,7 @@
   },
   {
     "data": "2026-02-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-01-01",
@@ -21,7 +21,7 @@
   },
   {
     "data": "2026-03-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-02-01",
@@ -31,7 +31,7 @@
   },
   {
     "data": "2026-04-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-03-01",
@@ -41,7 +41,7 @@
   },
   {
     "data": "2026-05-11",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-04-01",
@@ -51,7 +51,7 @@
   },
   {
     "data": "2026-06-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-05-01",
@@ -61,7 +61,7 @@
   },
   {
     "data": "2026-07-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-06-01",
@@ -71,7 +71,7 @@
   },
   {
     "data": "2026-08-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-07-01",
@@ -81,7 +81,7 @@
   },
   {
     "data": "2026-09-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-08-01",
@@ -91,7 +91,7 @@
   },
   {
     "data": "2026-10-12",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-09-01",
@@ -101,7 +101,7 @@
   },
   {
     "data": "2026-11-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-10-01",
@@ -111,7 +111,7 @@
   },
   {
     "data": "2026-12-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice ABCR - Fluxo Pedagiado",
     "fonte": "ABCR",
     "periodo": "2026-11-01",
@@ -121,7 +121,7 @@
   },
   {
     "data": "2026-01-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2025-12-01",
@@ -131,7 +131,7 @@
   },
   {
     "data": "2026-02-16",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-01-01",
@@ -141,7 +141,7 @@
   },
   {
     "data": "2026-03-16",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-02-01",
@@ -151,7 +151,7 @@
   },
   {
     "data": "2026-04-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-03-01",
@@ -161,7 +161,7 @@
   },
   {
     "data": "2026-05-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-04-01",
@@ -171,7 +171,7 @@
   },
   {
     "data": "2026-06-15",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-05-01",
@@ -181,7 +181,7 @@
   },
   {
     "data": "2026-07-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-06-01",
@@ -191,7 +191,7 @@
   },
   {
     "data": "2026-08-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-07-01",
@@ -201,7 +201,7 @@
   },
   {
     "data": "2026-09-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-08-01",
@@ -211,7 +211,7 @@
   },
   {
     "data": "2026-10-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-09-01",
@@ -221,7 +221,7 @@
   },
   {
     "data": "2026-11-16",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-10-01",
@@ -231,7 +231,7 @@
   },
   {
     "data": "2026-12-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Produção e Vendas de Motocicletas e Bicicletas",
     "fonte": "ABRACICLO",
     "periodo": "2026-11-01",
@@ -366,7 +366,7 @@
     "fonte": "BCB",
     "periodo": "2026-01-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -376,7 +376,7 @@
     "fonte": "BCB",
     "periodo": "2026-02-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -386,7 +386,7 @@
     "fonte": "BCB",
     "periodo": "2026-02-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -396,7 +396,7 @@
     "fonte": "BCB",
     "periodo": "2026-02-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -406,7 +406,7 @@
     "fonte": "BCB",
     "periodo": "2026-02-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -416,7 +416,7 @@
     "fonte": "BCB",
     "periodo": "2026-02-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -426,7 +426,7 @@
     "fonte": "BCB",
     "periodo": "2026-02-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -436,7 +436,7 @@
     "fonte": "BCB",
     "periodo": "2026-03-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -446,7 +446,7 @@
     "fonte": "BCB",
     "periodo": "2026-03-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -456,7 +456,7 @@
     "fonte": "BCB",
     "periodo": "2026-03-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -466,7 +466,7 @@
     "fonte": "BCB",
     "periodo": "2026-03-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -476,7 +476,7 @@
     "fonte": "BCB",
     "periodo": "2026-03-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -486,7 +486,7 @@
     "fonte": "BCB",
     "periodo": "2026-03-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -496,7 +496,7 @@
     "fonte": "BCB",
     "periodo": "2026-04-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -506,7 +506,7 @@
     "fonte": "BCB",
     "periodo": "2026-04-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -516,7 +516,7 @@
     "fonte": "BCB",
     "periodo": "2026-04-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -526,7 +526,7 @@
     "fonte": "BCB",
     "periodo": "2026-04-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -536,7 +536,7 @@
     "fonte": "BCB",
     "periodo": "2026-04-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -546,7 +546,7 @@
     "fonte": "BCB",
     "periodo": "2026-04-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -556,7 +556,7 @@
     "fonte": "BCB",
     "periodo": "2026-05-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -566,7 +566,7 @@
     "fonte": "BCB",
     "periodo": "2026-05-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -576,7 +576,7 @@
     "fonte": "BCB",
     "periodo": "2026-05-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -586,7 +586,7 @@
     "fonte": "BCB",
     "periodo": "2026-05-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -596,7 +596,7 @@
     "fonte": "BCB",
     "periodo": "2026-05-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -606,7 +606,7 @@
     "fonte": "BCB",
     "periodo": "2026-05-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -616,7 +616,7 @@
     "fonte": "BCB",
     "periodo": "2026-06-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -626,7 +626,7 @@
     "fonte": "BCB",
     "periodo": "2026-06-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -636,7 +636,7 @@
     "fonte": "BCB",
     "periodo": "2026-06-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -646,7 +646,7 @@
     "fonte": "BCB",
     "periodo": "2026-06-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -656,7 +656,7 @@
     "fonte": "BCB",
     "periodo": "2026-06-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -666,7 +666,7 @@
     "fonte": "BCB",
     "periodo": "2026-06-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -676,7 +676,7 @@
     "fonte": "BCB",
     "periodo": "2026-07-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -686,7 +686,7 @@
     "fonte": "BCB",
     "periodo": "2026-07-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -696,7 +696,7 @@
     "fonte": "BCB",
     "periodo": "2026-07-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -706,7 +706,7 @@
     "fonte": "BCB",
     "periodo": "2026-07-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -716,7 +716,7 @@
     "fonte": "BCB",
     "periodo": "2026-07-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -726,7 +726,7 @@
     "fonte": "BCB",
     "periodo": "2026-07-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -736,7 +736,7 @@
     "fonte": "BCB",
     "periodo": "2026-08-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -746,7 +746,7 @@
     "fonte": "BCB",
     "periodo": "2026-08-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -756,7 +756,7 @@
     "fonte": "BCB",
     "periodo": "2026-08-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -766,7 +766,7 @@
     "fonte": "BCB",
     "periodo": "2026-08-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -776,7 +776,7 @@
     "fonte": "BCB",
     "periodo": "2026-08-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -786,7 +786,7 @@
     "fonte": "BCB",
     "periodo": "2026-08-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -796,7 +796,7 @@
     "fonte": "BCB",
     "periodo": "2026-09-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -806,7 +806,7 @@
     "fonte": "BCB",
     "periodo": "2026-09-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -816,7 +816,7 @@
     "fonte": "BCB",
     "periodo": "2026-09-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -826,7 +826,7 @@
     "fonte": "BCB",
     "periodo": "2026-09-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -836,7 +836,7 @@
     "fonte": "BCB",
     "periodo": "2026-09-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -846,7 +846,7 @@
     "fonte": "BCB",
     "periodo": "2026-09-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -856,7 +856,7 @@
     "fonte": "BCB",
     "periodo": "2026-10-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -866,7 +866,7 @@
     "fonte": "BCB",
     "periodo": "2026-10-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -876,7 +876,7 @@
     "fonte": "BCB",
     "periodo": "2026-10-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -886,7 +886,7 @@
     "fonte": "BCB",
     "periodo": "2026-10-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -896,7 +896,7 @@
     "fonte": "BCB",
     "periodo": "2026-10-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -906,7 +906,7 @@
     "fonte": "BCB",
     "periodo": "2026-10-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
@@ -916,7 +916,7 @@
     "fonte": "BCB",
     "periodo": "2026-11-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -926,7 +926,7 @@
     "fonte": "BCB",
     "periodo": "2026-11-01",
     "setor": "Setor Externo",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -936,7 +936,7 @@
     "fonte": "BCB",
     "periodo": "2026-11-01",
     "setor": "Crédito",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -946,7 +946,7 @@
     "fonte": "BCB",
     "periodo": "2026-11-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -956,7 +956,7 @@
     "fonte": "BCB",
     "periodo": "2026-11-01",
     "setor": "Setor Público",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
   },
   {
@@ -964,7 +964,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Second Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -984,7 +984,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Third Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1004,7 +1004,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Advance Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1024,7 +1024,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Second Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1044,7 +1044,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Third Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1064,7 +1064,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Advance Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1084,7 +1084,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Second Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1104,7 +1104,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Third Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1124,7 +1124,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Advance Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1144,7 +1144,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Second Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1164,7 +1164,7 @@
     "horario": "0.35416666666666669",
     "indicador": "GDP",
     "fonte": "BEA",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
     "nota": "Third Estimate",
     "link": "https://www.bea.gov/news/schedule"
@@ -1196,7 +1196,7 @@
     "fonte": "BLS",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1206,7 +1206,7 @@
     "fonte": "BLS",
     "periodo": "2026-02-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1216,7 +1216,7 @@
     "fonte": "BLS",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1226,7 +1226,7 @@
     "fonte": "BLS",
     "periodo": "2026-03-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1236,7 +1236,7 @@
     "fonte": "BLS",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1246,7 +1246,7 @@
     "fonte": "BLS",
     "periodo": "2026-03-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1256,7 +1256,7 @@
     "fonte": "BLS",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1266,7 +1266,7 @@
     "fonte": "BLS",
     "periodo": "2026-04-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1276,7 +1276,7 @@
     "fonte": "BLS",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1286,7 +1286,7 @@
     "fonte": "BLS",
     "periodo": "2026-04-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1296,7 +1296,7 @@
     "fonte": "BLS",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1306,7 +1306,7 @@
     "fonte": "BLS",
     "periodo": "2026-05-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1316,7 +1316,7 @@
     "fonte": "BLS",
     "periodo": "2026-05-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1326,7 +1326,7 @@
     "fonte": "BLS",
     "periodo": "2026-05-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1336,7 +1336,7 @@
     "fonte": "BLS",
     "periodo": "2026-05-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1346,7 +1346,7 @@
     "fonte": "BLS",
     "periodo": "2026-06-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1356,7 +1356,7 @@
     "fonte": "BLS",
     "periodo": "2026-06-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1366,7 +1366,7 @@
     "fonte": "BLS",
     "periodo": "2026-06-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1376,7 +1376,7 @@
     "fonte": "BLS",
     "periodo": "2026-06-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1386,7 +1386,7 @@
     "fonte": "BLS",
     "periodo": "2026-07-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1396,7 +1396,7 @@
     "fonte": "BLS",
     "periodo": "2026-07-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1406,7 +1406,7 @@
     "fonte": "BLS",
     "periodo": "2026-07-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1416,7 +1416,7 @@
     "fonte": "BLS",
     "periodo": "2026-07-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1426,7 +1426,7 @@
     "fonte": "BLS",
     "periodo": "2026-08-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1436,7 +1436,7 @@
     "fonte": "BLS",
     "periodo": "2026-08-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1446,7 +1446,7 @@
     "fonte": "BLS",
     "periodo": "2026-08-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1456,7 +1456,7 @@
     "fonte": "BLS",
     "periodo": "2026-08-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1466,7 +1466,7 @@
     "fonte": "BLS",
     "periodo": "2026-09-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1476,7 +1476,7 @@
     "fonte": "BLS",
     "periodo": "2026-09-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1486,7 +1486,7 @@
     "fonte": "BLS",
     "periodo": "2026-09-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1496,7 +1496,7 @@
     "fonte": "BLS",
     "periodo": "2026-09-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1506,7 +1506,7 @@
     "fonte": "BLS",
     "periodo": "2026-10-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1516,7 +1516,7 @@
     "fonte": "BLS",
     "periodo": "2026-10-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1526,7 +1526,7 @@
     "fonte": "BLS",
     "periodo": "2026-10-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1536,7 +1536,7 @@
     "fonte": "BLS",
     "periodo": "2026-10-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1546,7 +1546,7 @@
     "fonte": "BLS",
     "periodo": "2026-11-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1556,7 +1556,7 @@
     "fonte": "BLS",
     "periodo": "2026-11-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1566,7 +1566,7 @@
     "fonte": "BLS",
     "periodo": "2026-11-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1576,7 +1576,7 @@
     "fonte": "BLS",
     "periodo": "2026-11-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.bls.gov/schedule/2026/home.htm"
   },
   {
@@ -1584,7 +1584,7 @@
     "horario": "0.41666666666666669",
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
-    "periodo": {},
+    "periodo": null,
     "setor": "Habitação",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
@@ -1594,7 +1594,7 @@
     "horario": "0.41666666666666669",
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
-    "periodo": {},
+    "periodo": null,
     "setor": "Habitação",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
@@ -1604,7 +1604,7 @@
     "horario": "0.41666666666666669",
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
-    "periodo": {},
+    "periodo": null,
     "setor": "Habitação",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
@@ -1614,7 +1614,7 @@
     "horario": "0.41666666666666669",
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
-    "periodo": {},
+    "periodo": null,
     "setor": "Habitação",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
@@ -1686,7 +1686,7 @@
     "fonte": "CNC",
     "periodo": "2026-03-01",
     "setor": "Consumo",
-    "nota": {},
+    "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
   {
@@ -1696,7 +1696,7 @@
     "fonte": "CNC",
     "periodo": "2026-03-01",
     "setor": "Consumo",
-    "nota": {},
+    "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
   {
@@ -1706,7 +1706,7 @@
     "fonte": "CNC",
     "periodo": "2026-03-01",
     "setor": "Confianíça",
-    "nota": {},
+    "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
   {
@@ -1716,7 +1716,7 @@
     "fonte": "CNC",
     "periodo": "2026-04-01",
     "setor": "Consumo",
-    "nota": {},
+    "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
   {
@@ -1981,770 +1981,770 @@
   },
   {
     "data": "2026-01-19",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2025-12-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-01-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-01-26",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-01-28",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-01-29",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-02-06",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-01-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-02-12",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-02-24",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-02-26",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-02-27",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-03-09",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-02-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-03-12",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-03-19",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-03-23",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-03-25",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-04-08",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-03-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-04-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-04-24",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-04-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-04-29",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-05-08",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-04-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-05-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-05-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-05-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-05-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-05-27",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-05-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-06-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-05-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-06-15",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-06-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-06-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-06-24",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-06-26",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-06-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-07-08",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-06-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-07-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-07-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-07-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-07-23",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-07-27",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-07-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-08-07",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-07-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-08-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-08-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-08-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-08-24",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-08-26",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-08-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-09-10",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-08-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-09-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-09-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-09-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-09-23",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-09-25",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-09-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-10-07",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-09-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-10-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-10-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-10-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-10-26",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-10-28",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-10-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-11-09",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-10-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-11-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-11-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-11-24",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-11-26",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-11-27",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-11-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-12-09",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-11-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-12-11",
-    "horario": {},
+    "horario": null,
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-12-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-12-16",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-12-17",
-    "horario": {},
+    "horario": null,
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-12-18",
-    "horario": {},
+    "horario": null,
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-12-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
   {
     "data": "2026-01-15",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "4º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-02-05",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Café",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "1º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-02-12",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "5º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-03-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "6º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-04-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "7º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-05-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "8º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-05-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Café",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "2º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-06-11",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "9º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-07-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "10º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-08-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "11º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-09-15",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "12º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-09-24",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Café",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "3º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-10-15",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "1º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-11-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "2º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2026-12-15",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "3º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2027-01-07",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Café",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "3º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
   },
   {
     "data": "2027-01-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Acompanhamento de Safra - Grãos",
     "fonte": "CONAB",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
     "nota": "3º Levantamento",
     "link": "https://www.gov.br/conab/pt-br/assuntos/imagens/calendario-de-safras-e-prohort-2026.pdf/@@download/file"
@@ -2876,7 +2876,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2025-12-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2886,7 +2886,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-01-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2896,7 +2896,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-02-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2906,7 +2906,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-03-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2916,7 +2916,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-04-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2926,7 +2926,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-05-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2936,7 +2936,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-06-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2946,7 +2946,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-07-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2956,7 +2956,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-08-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2966,7 +2966,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-09-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2976,7 +2976,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-10-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -2986,7 +2986,7 @@
     "fonte": "Federal Reserve",
     "periodo": "2026-11-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://fred.stlouisfed.org/releases/calendar?rid=13&ve=2018-12-31&view=year&vs=2018-01-01"
   },
   {
@@ -3116,7 +3116,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3126,7 +3126,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3136,7 +3136,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3146,7 +3146,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3156,7 +3156,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3166,7 +3166,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3176,7 +3176,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3186,7 +3186,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3196,7 +3196,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3206,7 +3206,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3216,7 +3216,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3226,7 +3226,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3236,7 +3236,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3246,7 +3246,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3256,7 +3256,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3266,7 +3266,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3274,9 +3274,9 @@
     "horario": "0.33333333333333331",
     "indicador": "Sondagem da América Latina",
     "fonte": "FGV",
-    "periodo": {},
+    "periodo": null,
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3286,7 +3286,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3296,7 +3296,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3306,7 +3306,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3316,7 +3316,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3326,7 +3326,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3336,7 +3336,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3346,7 +3346,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3356,7 +3356,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3366,7 +3366,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3376,7 +3376,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3386,7 +3386,7 @@
     "fonte": "FGV",
     "periodo": "2026-01-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3396,7 +3396,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3406,7 +3406,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3416,7 +3416,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3426,7 +3426,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3436,7 +3436,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3446,7 +3446,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3456,7 +3456,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3466,7 +3466,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3476,7 +3476,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3486,7 +3486,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3496,7 +3496,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3506,7 +3506,7 @@
     "fonte": "FGV",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3516,7 +3516,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3526,7 +3526,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3536,7 +3536,7 @@
     "fonte": "FGV",
     "periodo": "2026-02-01",
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3546,7 +3546,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3556,7 +3556,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3566,7 +3566,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3576,7 +3576,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3586,7 +3586,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3596,7 +3596,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3606,7 +3606,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3616,7 +3616,7 @@
     "fonte": "FGV",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
   {
@@ -3981,7 +3981,7 @@
   },
   {
     "data": "2026-01-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2025-12-01",
@@ -3991,7 +3991,7 @@
   },
   {
     "data": "2026-02-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-01-01",
@@ -4001,7 +4001,7 @@
   },
   {
     "data": "2026-03-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-02-01",
@@ -4011,7 +4011,7 @@
   },
   {
     "data": "2026-04-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-03-01",
@@ -4021,7 +4021,7 @@
   },
   {
     "data": "2026-05-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-04-01",
@@ -4031,7 +4031,7 @@
   },
   {
     "data": "2026-06-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-05-01",
@@ -4041,7 +4041,7 @@
   },
   {
     "data": "2026-07-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-06-01",
@@ -4051,7 +4051,7 @@
   },
   {
     "data": "2026-08-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-07-01",
@@ -4061,7 +4061,7 @@
   },
   {
     "data": "2026-09-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-08-01",
@@ -4071,7 +4071,7 @@
   },
   {
     "data": "2026-10-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-09-01",
@@ -4081,7 +4081,7 @@
   },
   {
     "data": "2026-11-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-10-01",
@@ -4091,7 +4091,7 @@
   },
   {
     "data": "2026-12-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Estatística Mensal Siderúrgica",
     "fonte": "IABr",
     "periodo": "2026-11-01",
@@ -4106,7 +4106,7 @@
     "fonte": "IBGE",
     "periodo": "2025-11-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4116,7 +4116,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4126,7 +4126,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4136,7 +4136,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4146,7 +4146,7 @@
     "fonte": "IBGE",
     "periodo": "2025-11-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4156,7 +4156,7 @@
     "fonte": "IBGE",
     "periodo": "2025-11-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4166,7 +4166,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4176,7 +4176,7 @@
     "fonte": "IBGE",
     "periodo": "2025-11-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4186,7 +4186,7 @@
     "fonte": "IBGE",
     "periodo": "2025-11-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4196,7 +4196,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4206,7 +4206,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4216,7 +4216,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4226,7 +4226,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4236,7 +4236,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4246,7 +4246,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4256,7 +4256,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4266,7 +4266,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4276,7 +4276,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4286,7 +4286,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4294,9 +4294,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: 1os resultados",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4306,7 +4306,7 @@
     "fonte": "IBGE",
     "periodo": "2025-12-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4314,9 +4314,9 @@
     "horario": "0.375",
     "indicador": "PNAD Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4326,7 +4326,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4334,9 +4334,9 @@
     "horario": "0.375",
     "indicador": "PIB Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4346,7 +4346,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4356,7 +4356,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4366,7 +4366,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4376,7 +4376,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4386,7 +4386,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4396,7 +4396,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4406,7 +4406,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4416,7 +4416,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4426,7 +4426,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4436,7 +4436,7 @@
     "fonte": "IBGE",
     "periodo": "2026-01-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4444,9 +4444,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4456,7 +4456,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4466,7 +4466,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4476,7 +4476,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4486,7 +4486,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4496,7 +4496,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4506,7 +4506,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4516,7 +4516,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4526,7 +4526,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4536,7 +4536,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4546,7 +4546,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4556,7 +4556,7 @@
     "fonte": "IBGE",
     "periodo": "2026-02-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4566,7 +4566,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4576,7 +4576,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4586,7 +4586,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4596,7 +4596,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4606,7 +4606,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4616,7 +4616,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4626,7 +4626,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4636,7 +4636,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4646,7 +4646,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4656,7 +4656,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4664,9 +4664,9 @@
     "horario": "0.375",
     "indicador": "PNAD Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4676,7 +4676,7 @@
     "fonte": "IBGE",
     "periodo": "2026-03-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4684,9 +4684,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: 1os resultados",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4696,7 +4696,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4706,7 +4706,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4716,7 +4716,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4724,9 +4724,9 @@
     "horario": "0.375",
     "indicador": "PIB Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4736,7 +4736,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4746,7 +4746,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4756,7 +4756,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4766,7 +4766,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4776,7 +4776,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4786,7 +4786,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4796,7 +4796,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4806,7 +4806,7 @@
     "fonte": "IBGE",
     "periodo": "2026-04-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4814,9 +4814,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4826,7 +4826,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4836,7 +4836,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4846,7 +4846,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4856,7 +4856,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4866,7 +4866,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4876,7 +4876,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4886,7 +4886,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4896,7 +4896,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4906,7 +4906,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4916,7 +4916,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4926,7 +4926,7 @@
     "fonte": "IBGE",
     "periodo": "2026-05-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4936,7 +4936,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4946,7 +4946,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4956,7 +4956,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4966,7 +4966,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4976,7 +4976,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4986,7 +4986,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -4996,7 +4996,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5006,7 +5006,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5016,7 +5016,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5026,7 +5026,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5036,7 +5036,7 @@
     "fonte": "IBGE",
     "periodo": "2026-06-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5044,9 +5044,9 @@
     "horario": "0.375",
     "indicador": "PNAD Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5054,9 +5054,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: 1os resultados",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5066,7 +5066,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5076,7 +5076,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5086,7 +5086,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5094,9 +5094,9 @@
     "horario": "0.375",
     "indicador": "PIB Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5106,7 +5106,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5116,7 +5116,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5126,7 +5126,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5136,7 +5136,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5146,7 +5146,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5156,7 +5156,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5166,7 +5166,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5176,7 +5176,7 @@
     "fonte": "IBGE",
     "periodo": "2026-07-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5184,9 +5184,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5196,7 +5196,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5206,7 +5206,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5216,7 +5216,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5226,7 +5226,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5236,7 +5236,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5246,7 +5246,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5256,7 +5256,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5266,7 +5266,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5276,7 +5276,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5286,7 +5286,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5296,7 +5296,7 @@
     "fonte": "IBGE",
     "periodo": "2026-08-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5306,7 +5306,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5316,7 +5316,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5326,7 +5326,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5336,7 +5336,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5346,7 +5346,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5356,7 +5356,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5366,7 +5366,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5376,7 +5376,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5386,7 +5386,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5396,7 +5396,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5406,7 +5406,7 @@
     "fonte": "IBGE",
     "periodo": "2026-09-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5414,9 +5414,9 @@
     "horario": "0.375",
     "indicador": "PNAD Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5424,9 +5424,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: 1os resultados",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5436,7 +5436,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5446,7 +5446,7 @@
     "fonte": "IBGE",
     "periodo": "2026-11-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5456,7 +5456,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5464,9 +5464,9 @@
     "horario": "0.375",
     "indicador": "PIB Trimestral",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Atividade",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5476,7 +5476,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5486,7 +5486,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Comércio",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5496,7 +5496,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5506,7 +5506,7 @@
     "fonte": "IBGE",
     "periodo": "2026-10-01",
     "setor": "Serviços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5516,7 +5516,7 @@
     "fonte": "IBGE",
     "periodo": "2026-11-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5526,7 +5526,7 @@
     "fonte": "IBGE",
     "periodo": "2026-11-01",
     "setor": "Construção",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5536,7 +5536,7 @@
     "fonte": "IBGE",
     "periodo": "2026-11-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5546,7 +5546,7 @@
     "fonte": "IBGE",
     "periodo": "2026-11-01",
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5554,9 +5554,9 @@
     "horario": "0.375",
     "indicador": "Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha",
     "fonte": "IBGE",
-    "periodo": {},
+    "periodo": null,
     "setor": "Agropecuária",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5566,7 +5566,7 @@
     "fonte": "IBGE",
     "periodo": "2026-12-01",
     "setor": "Preços",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5576,7 +5576,7 @@
     "fonte": "IBGE",
     "periodo": "2026-11-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ibge.gov.br/calendario/conjunturais.html"
   },
   {
@@ -5586,7 +5586,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2025-12-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5596,7 +5596,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-01-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5606,7 +5606,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-02-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5616,7 +5616,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-03-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5626,7 +5626,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-04-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5636,7 +5636,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-05-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5646,7 +5646,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-06-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5656,7 +5656,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-07-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5666,7 +5666,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-08-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5676,7 +5676,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-09-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5686,7 +5686,7 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-10-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
@@ -5696,127 +5696,127 @@
     "fonte": "Institute for Supply Management",
     "periodo": "2026-11-01",
     "setor": "Indústria",
-    "nota": {},
+    "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
   {
     "data": "2026-01-29",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2025-12-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-03-03",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-01-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-03-30",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-02-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-04-30",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-03-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-05-29",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-04-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-06-30",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-05-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-07-30",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-06-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-08-28",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-07-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-09-29",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-08-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-10-29",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-09-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-11-30",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-10-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
     "data": "2026-12-30",
-    "horario": {},
+    "horario": null,
     "indicador": "CAGED - Emprego Formal",
     "fonte": "MTE",
     "periodo": "2026-11-01",
     "setor": "Mercado de Trabalho",
-    "nota": {},
+    "nota": null,
     "link": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/o-pdet/calendario-de-divulgacao-do-novo-caged"
   },
   {
@@ -5826,7 +5826,7 @@
     "fonte": "NAHB",
     "periodo": "2026-01-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5836,7 +5836,7 @@
     "fonte": "NAHB",
     "periodo": "2026-02-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5846,7 +5846,7 @@
     "fonte": "NAHB",
     "periodo": "2026-03-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5856,7 +5856,7 @@
     "fonte": "NAHB",
     "periodo": "2026-04-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5866,7 +5866,7 @@
     "fonte": "NAHB",
     "periodo": "2026-05-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5876,7 +5876,7 @@
     "fonte": "NAHB",
     "periodo": "2026-06-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5886,7 +5886,7 @@
     "fonte": "NAHB",
     "periodo": "2026-07-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5896,7 +5896,7 @@
     "fonte": "NAHB",
     "periodo": "2026-08-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5906,7 +5906,7 @@
     "fonte": "NAHB",
     "periodo": "2026-09-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5916,7 +5916,7 @@
     "fonte": "NAHB",
     "periodo": "2026-10-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5926,7 +5926,7 @@
     "fonte": "NAHB",
     "periodo": "2026-11-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5936,7 +5936,7 @@
     "fonte": "NAHB",
     "periodo": "2026-12-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nahb.org/news-and-economics/housing-economics/indices/nahb-wells-fargo-housing-market-index-release-dates"
   },
   {
@@ -5946,7 +5946,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-01-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -5956,7 +5956,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-01-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -5964,9 +5964,9 @@
     "horario": "10:00 AM ET",
     "indicador": "Fourth Quarter Metro Home Prices",
     "fonte": "National Association of Realtors",
-    "periodo": {},
+    "periodo": null,
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -5976,7 +5976,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-02-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -5986,7 +5986,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-02-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -5996,7 +5996,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-03-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6006,7 +6006,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-03-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6014,9 +6014,9 @@
     "horario": "10:00 AM ET",
     "indicador": "First Quarter Metro Home Prices",
     "fonte": "National Association of Realtors",
-    "periodo": {},
+    "periodo": null,
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6026,7 +6026,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-04-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6036,7 +6036,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-04-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6046,7 +6046,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-05-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6056,7 +6056,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-05-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6066,7 +6066,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-06-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6076,7 +6076,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-06-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6084,9 +6084,9 @@
     "horario": "10:00 AM ET",
     "indicador": "Second Quarter Metro Home Prices",
     "fonte": "National Association of Realtors",
-    "periodo": {},
+    "periodo": null,
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6096,7 +6096,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-07-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6106,7 +6106,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-07-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6116,7 +6116,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-08-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6126,7 +6126,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-08-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6136,7 +6136,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-09-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6146,7 +6146,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-09-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6154,9 +6154,9 @@
     "horario": "10:00 AM ET",
     "indicador": "Third Quarter Metro Home Prices",
     "fonte": "National Association of Realtors",
-    "periodo": {},
+    "periodo": null,
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6166,7 +6166,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-10-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6176,7 +6176,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-10-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6186,7 +6186,7 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-11-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
@@ -6196,12 +6196,12 @@
     "fonte": "National Association of Realtors",
     "periodo": "2026-11-01",
     "setor": "Imobiliário",
-    "nota": {},
+    "nota": null,
     "link": "https://www.nar.realtor/newsroom/nar-statistical-news-release-schedule"
   },
   {
     "data": "2026-01-13",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2025-12-01",
@@ -6211,7 +6211,7 @@
   },
   {
     "data": "2026-02-11",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-01-01",
@@ -6221,7 +6221,7 @@
   },
   {
     "data": "2026-03-10",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-02-01",
@@ -6231,7 +6231,7 @@
   },
   {
     "data": "2026-04-14",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-03-01",
@@ -6241,7 +6241,7 @@
   },
   {
     "data": "2026-05-12",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-04-01",
@@ -6251,7 +6251,7 @@
   },
   {
     "data": "2026-06-09",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-05-01",
@@ -6261,7 +6261,7 @@
   },
   {
     "data": "2026-07-14",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-06-01",
@@ -6271,7 +6271,7 @@
   },
   {
     "data": "2026-08-11",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-07-01",
@@ -6281,7 +6281,7 @@
   },
   {
     "data": "2026-09-08",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-08-01",
@@ -6291,7 +6291,7 @@
   },
   {
     "data": "2026-10-13",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-09-01",
@@ -6301,7 +6301,7 @@
   },
   {
     "data": "2026-11-10",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-10-01",
@@ -6311,7 +6311,7 @@
   },
   {
     "data": "2026-12-08",
-    "horario": {},
+    "horario": null,
     "indicador": "NFIB Small Business Optimism Index",
     "fonte": "NFIB",
     "periodo": "2026-11-01",
@@ -6326,7 +6326,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-01-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6336,7 +6336,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-02-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6346,7 +6346,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-03-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6356,7 +6356,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-04-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6366,7 +6366,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-05-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6376,7 +6376,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-06-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6386,7 +6386,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-07-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6396,7 +6396,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-08-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6406,7 +6406,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-09-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6416,7 +6416,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-10-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6426,7 +6426,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-11-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6436,7 +6436,7 @@
     "fonte": "Philadelphia Fed",
     "periodo": "2026-12-01",
     "setor": "Sondagens",
-    "nota": {},
+    "nota": null,
     "link": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
   },
   {
@@ -6681,12 +6681,12 @@
   },
   {
     "data": "2026-01-29",
-    "horario": {},
+    "horario": null,
     "indicador": "Resultado do Tesouro Nacional (RTN)",
     "fonte": "Tesouro Nacional",
     "periodo": "2025-12-01",
     "setor": "Fiscal",
-    "nota": {},
+    "nota": null,
     "link": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/27662"
   },
   {
@@ -6701,12 +6701,12 @@
   },
   {
     "data": "2026-02-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Resultado do Tesouro Nacional (RTN)",
     "fonte": "Tesouro Nacional",
     "periodo": "2026-01-01",
     "setor": "Fiscal",
-    "nota": {},
+    "nota": null,
     "link": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/27662"
   },
   {
@@ -6721,12 +6721,12 @@
   },
   {
     "data": "2026-03-30",
-    "horario": {},
+    "horario": null,
     "indicador": "Resultado do Tesouro Nacional (RTN)",
     "fonte": "Tesouro Nacional",
     "periodo": "2026-02-01",
     "setor": "Fiscal",
-    "nota": {},
+    "nota": null,
     "link": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/27662"
   },
   {
@@ -6741,12 +6741,12 @@
   },
   {
     "data": "2026-04-29",
-    "horario": {},
+    "horario": null,
     "indicador": "Resultado do Tesouro Nacional (RTN)",
     "fonte": "Tesouro Nacional",
     "periodo": "2026-03-01",
     "setor": "Fiscal",
-    "nota": {},
+    "nota": null,
     "link": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/27662"
   },
   {
@@ -6761,12 +6761,12 @@
   },
   {
     "data": "2026-05-28",
-    "horario": {},
+    "horario": null,
     "indicador": "Resultado do Tesouro Nacional (RTN)",
     "fonte": "Tesouro Nacional",
     "periodo": "2026-04-01",
     "setor": "Fiscal",
-    "nota": {},
+    "nota": null,
     "link": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/27662"
   },
   {
@@ -6781,12 +6781,12 @@
   },
   {
     "data": "2026-06-29",
-    "horario": {},
+    "horario": null,
     "indicador": "Resultado do Tesouro Nacional (RTN)",
     "fonte": "Tesouro Nacional",
     "periodo": "2026-05-01",
     "setor": "Fiscal",
-    "nota": {},
+    "nota": null,
     "link": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/27662"
   },
   {
@@ -7461,7 +7461,7 @@
   },
   {
     "data": "2026-02-23",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-01-01",
@@ -7471,7 +7471,7 @@
   },
   {
     "data": "2026-03-23",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-02-01",
@@ -7481,7 +7481,7 @@
   },
   {
     "data": "2026-04-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-03-01",
@@ -7491,7 +7491,7 @@
   },
   {
     "data": "2026-05-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-04-01",
@@ -7501,7 +7501,7 @@
   },
   {
     "data": "2026-06-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-05-01",
@@ -7511,7 +7511,7 @@
   },
   {
     "data": "2026-07-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-06-01",
@@ -7521,7 +7521,7 @@
   },
   {
     "data": "2026-08-24",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-07-01",
@@ -7531,7 +7531,7 @@
   },
   {
     "data": "2026-09-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-08-01",
@@ -7541,7 +7541,7 @@
   },
   {
     "data": "2026-10-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-09-01",
@@ -7551,7 +7551,7 @@
   },
   {
     "data": "2026-11-23",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-10-01",
@@ -7561,7 +7561,7 @@
   },
   {
     "data": "2026-12-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Indicadores do Mercado Imobiliário (Lançamentos, Vendas, Entregas, Distratos)",
     "fonte": "ABRAINC/FIPE",
     "periodo": "2026-11-01",
@@ -7571,7 +7571,7 @@
   },
   {
     "data": "2026-02-02",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-01-01",
@@ -7581,7 +7581,7 @@
   },
   {
     "data": "2026-03-02",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-02-01",
@@ -7591,7 +7591,7 @@
   },
   {
     "data": "2026-04-01",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-03-01",
@@ -7601,7 +7601,7 @@
   },
   {
     "data": "2026-05-04",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-04-01",
@@ -7611,7 +7611,7 @@
   },
   {
     "data": "2026-06-01",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-05-01",
@@ -7621,7 +7621,7 @@
   },
   {
     "data": "2026-07-01",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-06-01",
@@ -7631,7 +7631,7 @@
   },
   {
     "data": "2026-08-03",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-07-01",
@@ -7641,7 +7641,7 @@
   },
   {
     "data": "2026-09-01",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-08-01",
@@ -7651,7 +7651,7 @@
   },
   {
     "data": "2026-10-01",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-09-01",
@@ -7661,7 +7661,7 @@
   },
   {
     "data": "2026-11-03",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-10-01",
@@ -7671,7 +7671,7 @@
   },
   {
     "data": "2026-12-01",
-    "horario": {},
+    "horario": null,
     "indicador": "CUB Médio Brasil - Custo Unitário Básico de Construção (R$/m²)",
     "fonte": "CBIC",
     "periodo": "2026-11-01",
@@ -7681,7 +7681,7 @@
   },
   {
     "data": "2026-02-03",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-01-01",
@@ -7691,7 +7691,7 @@
   },
   {
     "data": "2026-03-03",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-02-01",
@@ -7701,7 +7701,7 @@
   },
   {
     "data": "2026-04-02",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-03-01",
@@ -7711,7 +7711,7 @@
   },
   {
     "data": "2026-05-05",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-04-01",
@@ -7721,7 +7721,7 @@
   },
   {
     "data": "2026-06-02",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-05-01",
@@ -7731,7 +7731,7 @@
   },
   {
     "data": "2026-07-02",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-06-01",
@@ -7741,7 +7741,7 @@
   },
   {
     "data": "2026-08-04",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-07-01",
@@ -7751,7 +7751,7 @@
   },
   {
     "data": "2026-09-02",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-08-01",
@@ -7761,7 +7761,7 @@
   },
   {
     "data": "2026-10-02",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-09-01",
@@ -7771,7 +7771,7 @@
   },
   {
     "data": "2026-11-04",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-10-01",
@@ -7781,7 +7781,7 @@
   },
   {
     "data": "2026-12-02",
-    "horario": {},
+    "horario": null,
     "indicador": "Consumo de Energia - Mercado Livre (ACL) - Dados Prévios de Medição",
     "fonte": "CCEE",
     "periodo": "2026-11-01",
@@ -7791,7 +7791,7 @@
   },
   {
     "data": "2026-02-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-01-01",
@@ -7801,7 +7801,7 @@
   },
   {
     "data": "2026-03-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-02-01",
@@ -7811,7 +7811,7 @@
   },
   {
     "data": "2026-04-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-03-01",
@@ -7821,7 +7821,7 @@
   },
   {
     "data": "2026-05-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-04-01",
@@ -7831,7 +7831,7 @@
   },
   {
     "data": "2026-06-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-05-01",
@@ -7841,7 +7841,7 @@
   },
   {
     "data": "2026-07-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-06-01",
@@ -7851,7 +7851,7 @@
   },
   {
     "data": "2026-08-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-07-01",
@@ -7861,7 +7861,7 @@
   },
   {
     "data": "2026-09-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-08-01",
@@ -7871,7 +7871,7 @@
   },
   {
     "data": "2026-10-26",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-09-01",
@@ -7881,7 +7881,7 @@
   },
   {
     "data": "2026-11-25",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-10-01",
@@ -7891,7 +7891,7 @@
   },
   {
     "data": "2026-12-28",
-    "horario": {},
+    "horario": null,
     "indicador": "Boletim Estatístico Mensal - Expedição de Papelão Ondulado (IBPO)",
     "fonte": "EMPAPEL/FGV-IBRE",
     "periodo": "2026-11-01",
@@ -7901,7 +7901,7 @@
   },
   {
     "data": "2026-02-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-01-01",
@@ -7911,7 +7911,7 @@
   },
   {
     "data": "2026-03-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-02-01",
@@ -7921,7 +7921,7 @@
   },
   {
     "data": "2026-04-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-03-01",
@@ -7931,7 +7931,7 @@
   },
   {
     "data": "2026-05-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-04-01",
@@ -7941,7 +7941,7 @@
   },
   {
     "data": "2026-06-29",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-05-01",
@@ -7951,7 +7951,7 @@
   },
   {
     "data": "2026-07-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-06-01",
@@ -7961,7 +7961,7 @@
   },
   {
     "data": "2026-08-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-07-01",
@@ -7971,7 +7971,7 @@
   },
   {
     "data": "2026-09-28",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-08-01",
@@ -7981,7 +7981,7 @@
   },
   {
     "data": "2026-10-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-09-01",
@@ -7991,7 +7991,7 @@
   },
   {
     "data": "2026-11-27",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-10-01",
@@ -8001,7 +8001,7 @@
   },
   {
     "data": "2026-12-28",
-    "horario": {},
+    "horario": null,
     "indicador": "Resenha Mensal do Mercado de Energia Elétrica - Consumo Nacional (GWh)",
     "fonte": "EPE",
     "periodo": "2026-11-01",
@@ -8011,7 +8011,7 @@
   },
   {
     "data": "2026-02-04",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-01-01",
@@ -8021,7 +8021,7 @@
   },
   {
     "data": "2026-03-04",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-02-01",
@@ -8031,7 +8031,7 @@
   },
   {
     "data": "2026-04-06",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-03-01",
@@ -8041,7 +8041,7 @@
   },
   {
     "data": "2026-05-06",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-04-01",
@@ -8051,7 +8051,7 @@
   },
   {
     "data": "2026-06-03",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-05-01",
@@ -8061,7 +8061,7 @@
   },
   {
     "data": "2026-07-03",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-06-01",
@@ -8071,7 +8071,7 @@
   },
   {
     "data": "2026-08-05",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-07-01",
@@ -8081,7 +8081,7 @@
   },
   {
     "data": "2026-09-03",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-08-01",
@@ -8091,7 +8091,7 @@
   },
   {
     "data": "2026-10-05",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-09-01",
@@ -8101,7 +8101,7 @@
   },
   {
     "data": "2026-11-05",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-10-01",
@@ -8111,7 +8111,7 @@
   },
   {
     "data": "2026-12-03",
-    "horario": {},
+    "horario": null,
     "indicador": "Emplacamentos de Veículos Automotores por Segmento e Região",
     "fonte": "FENABRAVE",
     "periodo": "2026-11-01",
@@ -8121,7 +8121,7 @@
   },
   {
     "data": "2026-02-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-01-01",
@@ -8131,7 +8131,7 @@
   },
   {
     "data": "2026-03-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-02-01",
@@ -8141,7 +8141,7 @@
   },
   {
     "data": "2026-04-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-03-01",
@@ -8151,7 +8151,7 @@
   },
   {
     "data": "2026-05-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-04-01",
@@ -8161,7 +8161,7 @@
   },
   {
     "data": "2026-06-22",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-05-01",
@@ -8171,7 +8171,7 @@
   },
   {
     "data": "2026-07-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-06-01",
@@ -8181,7 +8181,7 @@
   },
   {
     "data": "2026-08-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-07-01",
@@ -8191,7 +8191,7 @@
   },
   {
     "data": "2026-09-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-08-01",
@@ -8201,7 +8201,7 @@
   },
   {
     "data": "2026-10-20",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-09-01",
@@ -8211,7 +8211,7 @@
   },
   {
     "data": "2026-11-23",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-10-01",
@@ -8221,7 +8221,7 @@
   },
   {
     "data": "2026-12-21",
-    "horario": {},
+    "horario": null,
     "indicador": "Crédito Habitacional FGTS - Desempenho Mensal",
     "fonte": "FGTS/Ministério das Cidades",
     "periodo": "2026-11-01",
@@ -8231,7 +8231,7 @@
   },
   {
     "data": "2026-02-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-01-01",
@@ -8241,7 +8241,7 @@
   },
   {
     "data": "2026-03-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-02-01",
@@ -8251,7 +8251,7 @@
   },
   {
     "data": "2026-04-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-03-01",
@@ -8261,7 +8261,7 @@
   },
   {
     "data": "2026-05-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-04-01",
@@ -8271,7 +8271,7 @@
   },
   {
     "data": "2026-06-15",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-05-01",
@@ -8281,7 +8281,7 @@
   },
   {
     "data": "2026-07-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-06-01",
@@ -8291,7 +8291,7 @@
   },
   {
     "data": "2026-08-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-07-01",
@@ -8301,7 +8301,7 @@
   },
   {
     "data": "2026-09-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-08-01",
@@ -8311,7 +8311,7 @@
   },
   {
     "data": "2026-10-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-09-01",
@@ -8321,7 +8321,7 @@
   },
   {
     "data": "2026-11-13",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-10-01",
@@ -8331,7 +8331,7 @@
   },
   {
     "data": "2026-12-14",
-    "horario": {},
+    "horario": null,
     "indicador": "Pesquisa Mensal do Mercado Imobiliário - RMSP (Lançamentos e Vendas)",
     "fonte": "SECOVI-SP",
     "periodo": "2026-11-01",
