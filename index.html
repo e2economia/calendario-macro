@@ -500,7 +500,12 @@ function showMd(ri){
   const fmt=dt.getDate().toString().padStart(2,'0')+'/'+(dt.getMonth()+1).toString().padStart(2,'0')+'/'+dt.getFullYear()+' — '+DAYS[dt.getDay()];
   let per='—';
   if(d.periodo&&d.periodo!=='NaT'){
-    try{const pd=new Date(d.periodo+'T12:00:00');per=MONTHS[pd.getMonth()]+'/'+pd.getFullYear()}catch(e){}
+    const pd=new Date(d.periodo+'T12:00:00');
+    if(!isNaN(pd.getTime())){
+      per=MONTHS[pd.getMonth()]+'/'+pd.getFullYear();
+    } else {
+      per=d.periodo; // texto livre: "4T25", "25/26 4º Levantamento", etc.
+    }
   }
   document.getElementById('mT').textContent=d.indicador;
   document.getElementById('mD').textContent=fmt;
