@@ -880,7 +880,7 @@
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
-    "data": "2026-04-22",
+    "data": "2026-04-23",
     "horario": "14:30",
     "indicador": "IBCR - Índice de Atividade Econômica Regional",
     "fonte": "BCB",
@@ -890,7 +890,7 @@
     "link": "https://www.bcb.gov.br/estatisticas/calendario_indicadores"
   },
   {
-    "data": "2026-05-27",
+    "data": "2026-05-20",
     "horario": "14:30",
     "indicador": "IBCR - Índice de Atividade Econômica Regional",
     "fonte": "BCB",
@@ -1905,7 +1905,7 @@
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
     "periodo": "1T26",
-    "setor": "Habitação",
+    "setor": "Construção e Imobiliário",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
   },
@@ -1915,7 +1915,7 @@
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
     "periodo": "2T26",
-    "setor": "Habitação",
+    "setor": "Construção e Imobiliário",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
   },
@@ -1925,7 +1925,7 @@
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
     "periodo": "3T26",
-    "setor": "Habitação",
+    "setor": "Construção e Imobiliário",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
   },
@@ -1935,7 +1935,7 @@
     "indicador": "Indicadores Imobiliários Nacionais",
     "fonte": "CBIC",
     "periodo": "4T26",
-    "setor": "Habitação",
+    "setor": "Construção e Imobiliário",
     "nota": "Estimativa baseada divulgações trimestrais",
     "link": "https://www.cbic.org.br"
   },
@@ -2055,7 +2055,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-01-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2065,7 +2065,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-02-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2075,7 +2075,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-03-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
@@ -2085,7 +2085,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-04-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2095,7 +2095,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-05-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2105,7 +2105,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-06-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2115,7 +2115,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-07-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2125,7 +2125,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-08-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2135,7 +2135,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-09-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2145,7 +2145,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-10-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2155,7 +2155,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-11-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2165,7 +2165,7 @@
     "indicador": "Índice de Confiança do Empresário do Comércio",
     "fonte": "CNC",
     "periodo": "2026-12-01",
-    "setor": "Confianíça",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2175,7 +2175,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-01-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2185,7 +2185,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-02-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2195,7 +2195,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-03-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
@@ -2205,7 +2205,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-04-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2215,7 +2215,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-05-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2225,7 +2225,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-06-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2235,7 +2235,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-07-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2245,7 +2245,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-08-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2255,7 +2255,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-09-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2265,7 +2265,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-10-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2275,7 +2275,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-11-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2285,7 +2285,7 @@
     "indicador": "Intenção de Consumo das Famílias",
     "fonte": "CNC",
     "periodo": "2026-12-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2295,7 +2295,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-01-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2305,7 +2305,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-02-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2315,7 +2315,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-03-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
@@ -2325,7 +2325,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-04-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://pesquisascnc.com.br"
   },
@@ -2335,7 +2335,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-05-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2345,7 +2345,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-06-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2355,7 +2355,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-07-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2365,7 +2365,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-08-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2375,7 +2375,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-09-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2385,7 +2385,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-10-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2395,7 +2395,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-11-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2405,7 +2405,7 @@
     "indicador": "Pesquisa de Endividamento e Inadimplência do Consumidor",
     "fonte": "CNC",
     "periodo": "2026-12-01",
-    "setor": "Consumo",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada calendário histórico",
     "link": "https://pesquisascnc.com.br"
   },
@@ -2415,7 +2415,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2425,7 +2425,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2435,7 +2435,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2445,7 +2445,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2455,7 +2455,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2465,7 +2465,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2475,7 +2475,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2485,7 +2485,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2495,7 +2495,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2505,7 +2505,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2515,7 +2515,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2525,7 +2525,7 @@
     "indicador": "ICEI - Resultados setoriais",
     "fonte": "CNI",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2535,7 +2535,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2025-12-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2545,7 +2545,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-01-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2555,7 +2555,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-02-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2565,7 +2565,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-03-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2575,7 +2575,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-04-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2585,7 +2585,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-05-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2595,7 +2595,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-06-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2605,7 +2605,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-07-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2615,7 +2615,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-08-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2625,7 +2625,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-09-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2635,7 +2635,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-10-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2645,7 +2645,7 @@
     "indicador": "Indicadores Industriais",
     "fonte": "CNI",
     "periodo": "2026-11-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2655,7 +2655,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2665,7 +2665,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2675,7 +2675,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2685,7 +2685,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2695,7 +2695,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2705,7 +2705,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2715,7 +2715,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2725,7 +2725,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2735,7 +2735,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2745,7 +2745,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2755,7 +2755,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2765,7 +2765,7 @@
     "indicador": "Índice de Confiança do Empresário Industrial",
     "fonte": "CNI",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2775,7 +2775,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2785,7 +2785,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2795,7 +2795,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2805,7 +2805,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2815,7 +2815,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2825,7 +2825,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2835,7 +2835,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2845,7 +2845,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2855,7 +2855,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2865,7 +2865,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2875,7 +2875,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2885,7 +2885,7 @@
     "indicador": "Sondagem Indústria da Construção",
     "fonte": "CNI",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2895,7 +2895,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2905,7 +2905,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2915,7 +2915,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2925,7 +2925,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2935,7 +2935,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2945,7 +2945,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2955,7 +2955,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2965,7 +2965,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2975,7 +2975,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2985,7 +2985,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -2995,7 +2995,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -3005,7 +3005,7 @@
     "indicador": "Sondagem Industrial",
     "fonte": "CNI",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.portaldaindustria.com.br/cni/estatisticas/calendario/"
   },
@@ -3185,7 +3185,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-01-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3195,7 +3195,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-02-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3205,7 +3205,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-03-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3215,7 +3215,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-04-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3225,7 +3225,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-05-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3235,7 +3235,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-06-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3245,7 +3245,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-07-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3255,7 +3255,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-08-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3265,7 +3265,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-09-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3275,7 +3275,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-10-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3285,7 +3285,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-11-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -3295,7 +3295,7 @@
     "indicador": "Conf. Board Consumer Confidence - US",
     "fonte": "Conference Board",
     "periodo": "2026-12-01",
-    "setor": "Confiança Consumidor",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada na última terça do mês",
     "link": "https://www.conference-board.org"
   },
@@ -4415,7 +4415,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4425,7 +4425,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4435,7 +4435,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4445,7 +4445,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4455,7 +4455,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4465,7 +4465,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4475,7 +4475,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4485,7 +4485,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4495,7 +4495,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4505,7 +4505,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4515,7 +4515,7 @@
     "indicador": "Indicador de Incerteza da Economia Brasil",
     "fonte": "FGV",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4525,7 +4525,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4535,7 +4535,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4545,7 +4545,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4555,7 +4555,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4565,7 +4565,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4575,7 +4575,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4585,7 +4585,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4595,7 +4595,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4605,7 +4605,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4615,7 +4615,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4625,7 +4625,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4635,7 +4635,7 @@
     "indicador": "Índice de Confiança Empresarial",
     "fonte": "FGV",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4775,7 +4775,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4785,7 +4785,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4795,7 +4795,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4805,7 +4805,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4815,7 +4815,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4825,7 +4825,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4835,7 +4835,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4845,7 +4845,7 @@
     "indicador": "Síntese das Sondagens",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4855,7 +4855,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4865,7 +4865,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4875,7 +4875,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4885,7 +4885,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4895,7 +4895,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4905,7 +4905,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4915,7 +4915,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4925,7 +4925,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4935,7 +4935,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4945,7 +4945,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4955,7 +4955,7 @@
     "indicador": "Sondagem da Construção",
     "fonte": "FGV",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4965,7 +4965,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4975,7 +4975,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4985,7 +4985,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -4995,7 +4995,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5005,7 +5005,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5015,7 +5015,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5025,7 +5025,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5035,7 +5035,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5045,7 +5045,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5055,7 +5055,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5065,7 +5065,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5075,7 +5075,7 @@
     "indicador": "Sondagem da Indústria",
     "fonte": "FGV",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5085,7 +5085,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5095,7 +5095,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5105,7 +5105,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5115,7 +5115,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5125,7 +5125,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5135,7 +5135,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5145,7 +5145,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5155,7 +5155,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5165,7 +5165,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5175,7 +5175,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5185,7 +5185,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5195,7 +5195,7 @@
     "indicador": "Sondagem de Serviços",
     "fonte": "FGV",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5205,7 +5205,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-01-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5215,7 +5215,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5225,7 +5225,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5235,7 +5235,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5245,7 +5245,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5255,7 +5255,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5265,7 +5265,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5275,7 +5275,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5285,7 +5285,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5295,7 +5295,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5305,7 +5305,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5315,7 +5315,7 @@
     "indicador": "Sondagem do Comércio",
     "fonte": "FGV",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5325,7 +5325,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-02-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5335,7 +5335,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-03-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5345,7 +5345,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-04-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5355,7 +5355,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-05-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5365,7 +5365,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-06-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5375,7 +5375,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-07-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5385,7 +5385,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-08-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5395,7 +5395,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-09-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5405,7 +5405,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-10-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5415,7 +5415,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-11-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5425,7 +5425,7 @@
     "indicador": "Sondagem do Consumidor",
     "fonte": "FGV",
     "periodo": "2026-12-01",
-    "setor": "Sondagens",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://portalibre.fgv.br/calendario-de-divulgacao"
   },
@@ -5435,7 +5435,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-01-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5445,7 +5445,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-02-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5455,7 +5455,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-03-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5465,7 +5465,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-04-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5475,7 +5475,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-05-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5485,7 +5485,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-06-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5495,7 +5495,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-07-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5505,7 +5505,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-08-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5515,7 +5515,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-09-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5525,7 +5525,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-10-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5535,7 +5535,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-11-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -5545,7 +5545,7 @@
     "indicador": "Sensor FIESP",
     "fonte": "FIESP",
     "periodo": "2026-12-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": "Estimativa baseada divulgações mensais",
     "link": "https://www.fiesp.com.br"
   },
@@ -7395,7 +7395,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2025-12-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7405,7 +7405,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-01-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7415,7 +7415,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-02-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7425,7 +7425,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-03-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7435,7 +7435,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-04-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7445,7 +7445,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-05-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7455,7 +7455,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-06-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7465,7 +7465,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-07-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7475,7 +7475,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-08-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7485,7 +7485,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-09-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7495,7 +7495,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-10-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -7505,7 +7505,7 @@
     "indicador": "Manufacturing PMI",
     "fonte": "ISM",
     "periodo": "2026-11-01",
-    "setor": "Indústria",
+    "setor": "Sondagens e Confiança",
     "nota": null,
     "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
   },
@@ -9638,5 +9638,365 @@
     "setor": "Mercado de Trabalho",
     "nota": null,
     "link": "https://www.bcb.gov.br/estatisticas/notas_calendario"
+  },
+  {
+    "data": "2026-01-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-01-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-02-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-02-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-03-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-03-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-04-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-04-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-05-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-05-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-06-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-06-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-07-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-07-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-08-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-08-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-09-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-09-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-10-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-10-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-11-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-11-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-12-20",
+    "horario": "11:00",
+    "indicador": "Indicadores de Consumo",
+    "fonte": "Fecomercio",
+    "periodo": "2026-12-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-icc/"
+  },
+  {
+    "data": "2026-01-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-01-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-02-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-02-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-03-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-03-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-04-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-04-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-05-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-05-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-06-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-06-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-07-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-07-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-08-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-08-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-09-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-09-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-10-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-10-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-11-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-11-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-12-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Endividamento e Inadimplência",
+    "fonte": "Fecomercio",
+    "periodo": "2026-12-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-peic/"
+  },
+  {
+    "data": "2026-01-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-01-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-02-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-02-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-03-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-03-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-04-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-04-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-05-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-05-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-06-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-06-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-07-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-07-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-08-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-08-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-09-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-09-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-10-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-10-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-11-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-11-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
+  },
+  {
+    "data": "2026-12-13",
+    "horario": "11:00",
+    "indicador": "Indicadores de Confiança do Empresário",
+    "fonte": "Fecomercio",
+    "periodo": "2026-12-01",
+    "setor": "Sondagens e Confiança",
+    "nota": "Estimativa baseada calendário histórico",
+    "link": "https://pesquisas.fecomercio.com.br/indicador-iec/"
   }
 ]
